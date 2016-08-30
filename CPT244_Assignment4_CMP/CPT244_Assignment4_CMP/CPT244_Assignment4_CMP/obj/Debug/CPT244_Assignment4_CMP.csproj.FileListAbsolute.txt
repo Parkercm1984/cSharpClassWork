@@ -1,0 +1,6 @@
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\bin\Debug\CPT244_Assignment4_CMP.exe.config
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\obj\Debug\CPT244_Assignment4_CMP.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\bin\Debug\CPT244_Assignment4_CMP.exe
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\bin\Debug\CPT244_Assignment4_CMP.pdb
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\obj\Debug\CPT244_Assignment4_CMP.exe
+C:\Users\Craig\Desktop\Computer Courses\CPT244\Assignments\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\CPT244_Assignment4_CMP\obj\Debug\CPT244_Assignment4_CMP.pdb

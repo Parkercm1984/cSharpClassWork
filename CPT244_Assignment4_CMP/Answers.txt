@@ -1,0 +1,14 @@
+CPT 244 Assignment 4 Answers 
+
+1. 
+	- Reading in the file takes 0(N) time.
+	- Getting the highest word count takes 0(k) time.
+	- Getting the average word count would take 0(k) time.
+	- Getting the number of times a specific word is used would take 0(k) time.
+	- Listing the words that have a count of 25 would take 0(k) time.
+	- Listing the words and count that have a length of 7 
+		- Finding the words would take 0(k) time.
+		- Sorting the words would take 0(k) time.
+		
+I would not change the data structure this method seems to work well for returning
+the desired information.
